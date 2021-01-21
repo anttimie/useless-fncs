@@ -1,5 +1,10 @@
-﻿## How to build and run this project
-------
+## How to
+
+#### Create db
+
+---
+
+- Expensive, if @Azure... use Database\db-schema.sql
 
 #### Step 1: Restoring NuGet packages
 
@@ -16,5 +21,5 @@
 
 #### Step 2: Build and run
 
-1. Build the whole solution with CTRL + Shift + B
-2. CTRL + F5 to start without debugging or F5 to start a debug session
+1. Build
+2. Debug
